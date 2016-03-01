@@ -1,0 +1,2 @@
+C:\Users\simon\Documents\nopCommerce-release-3.70\Plugins\Nop.Plugin.Tax.WashingtonSales\obj\Release\Nop.Plugin.Tax.WashingtonSales.csproj.App.config
+C:\Users\simon\Documents\nopCommerce-release-3.70\Plugins\Nop.Plugin.Tax.WashingtonSales\obj\Release\Nop.Plugin.Tax.WashingtonSales.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+﻿Group: Tax providers
+FriendlyName: Washington state sales tax provider
+SystemName: Tax.WashingtonSales
+Version: 1.00
+SupportedVersions: 3.70
+Author: Simon Bland
+DisplayOrder: 10
+FileName: Nop.Plugin.Tax.WashingtonSales.dll
